@@ -1,5 +1,5 @@
 # Fraud Detection Analysis
-
+![Preview](https://github.com/shloktilokani/Credit-Card-Fraud-Prediction/blob/main/res/Recording%202025-03-05%20113403.gif)
 ## Overview
 This project analyzes financial transaction data to detect fraudulent activities using machine learning techniques. The goal is to build a classification model that accurately distinguishes fraudulent transactions from legitimate ones.
 
